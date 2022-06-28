@@ -1,7 +1,10 @@
-Repository created to demonstrate issue #
+Repository created to demonstrate issue [#10926](https://github.com/nrwl/nx/issues/10926)
 
 # Notes
-- This is a 
+- This is a new workspace generated with `nx@latest` (currently `14.3.6`)
+- There is one application in the workspace, a React application
+- SRI is enabled in that project.json
+- Integrity attributes are generated in dev, but not production
 
 # Logs
 
