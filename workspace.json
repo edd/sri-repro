@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "sri-repro-app": "apps/sri-repro-app",
+    "sri-repro-app-e2e": "apps/sri-repro-app-e2e"
+  }
+}
