@@ -8,6 +8,8 @@
       "outputs": ["{options.outputPath}"],
       "defaultConfiguration": "production",
       "options": {
+        "subresourceIntegrity": true,
+        "crossOrigin": "anonymous",
         "compiler": "babel",
         "outputPath": "dist/apps/sri-repro-app",
         "index": "apps/sri-repro-app/src/index.html",
